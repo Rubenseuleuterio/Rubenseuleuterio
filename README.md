@@ -1,15 +1,3 @@
-<h1 align="center">Olá 👋, Eu sou o Rubens Euleuterio</h1>
-<h3 align="center">Sou um entusiasta de dados apaixonado por explorar conjuntos de dados, descobrir padrões ocultos e contar histórias através dos números. Minha jornada em análise de dados começou com uma curiosidade inata na faculdade e se intensificou à medida que mergulhei em técnicas avançadas e ferramentas poderosas.</h3>
-
-- 🔭 Estou participando de um bootcamp na DIO.me, Onde estou aprofundando meus conhecimentos de Data Analytics. [Python Data Analytics](https://web.dio.me/track/bootcamp-squadio)
-
-- 🌱 Atualmente estou Aprendendo mais **Python, SQL, DAX**
-
-- 💬Me pergunte sobre **Storytelling, Sql, Excel, Gerenciamento de projeto Agil, Power BI.**
-
-- 📫 Você pode me encontrar através do e-mail **Rubest440@gmail.com**
-
-- 📄 Você enconta meu historico profissional e meus certificados [www.linkedin.com/in/rubens-euleuterio-24985110b](www.linkedin.com/in/rubens-euleuterio-24985110b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
